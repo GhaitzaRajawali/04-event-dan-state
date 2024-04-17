@@ -12,3 +12,9 @@ This error happens because we have not defined the message and button name yet, 
 OUTPUT
 ![Praktikum_2](asets/image/Praktikum_2.1.png)
 ![Praktikum_2](asets/image/Praktikum_2.2.png)
+
+PRAKTIKUM 3
+OUTPUT
+![Praktikum_3](asets/image/Praktikum_3.1.png)
+![Praktikum_3](asets/image/Praktikum_3.2.png)
+![Praktikum_3](asets/image/Praktikum_3.3.png)
