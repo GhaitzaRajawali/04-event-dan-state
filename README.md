@@ -18,3 +18,10 @@ OUTPUT
 ![Praktikum_3](asets/image/Praktikum_3.1.png)
 ![Praktikum_3](asets/image/Praktikum_3.2.png)
 ![Praktikum_3](asets/image/Praktikum_3.3.png)
+
+PRAKTIKUM 4
+Soal
+OUTPUT
+![Praktikum_4](asets/image/Praktikum_4.1.png)
+![Praktikum_4](asets/image/Praktikum_4.2.png)
+

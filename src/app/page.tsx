@@ -1,5 +1,6 @@
 "use client";
 import Tombol_1, { Tombol_2, Tombol_3 } from"@/component/button";
+import Gallery from "@/component/gallery";
 
 export default function Home(){
   return(
@@ -15,6 +16,8 @@ export default function Home(){
         <Tombol_3 message="Child Element : Button_01" buttonName="Button_01" />
         <Tombol_3 message="Child Element : Button_02" buttonName="Button_02" />
       </div>
+      <br></br>
+      <Gallery />
     </>
   );
 }
