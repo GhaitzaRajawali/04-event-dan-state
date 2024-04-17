@@ -20,8 +20,15 @@ OUTPUT
 ![Praktikum_3](asets/image/Praktikum_3.3.png)
 
 PRAKTIKUM 4
-Soal
 OUTPUT
 ![Praktikum_4](asets/image/Praktikum_4.1.png)
 ![Praktikum_4](asets/image/Praktikum_4.2.png)
 
+PRAKTIKUM 5
+OUTPUT
+![Praktikum_5](asets/image/Praktikum_5.png)
+
+PRAKTIKUM 6
+OUTPUT
+![Praktikum_6](asets/image/Praktikum_6.1.png)
+![Praktikum_6](asets/image/Praktikum_6.2.png)
